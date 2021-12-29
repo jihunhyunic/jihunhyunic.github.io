@@ -16,5 +16,6 @@
 <body>
 <h1>연습중</h1>
 <p><b>깃깃</b>이란 무엇인고</p>
+<img src="./commit1.jpg">
 </body>
 </html>
